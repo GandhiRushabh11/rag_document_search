@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-google-genai
+langgraph
+faiss-cpu
+pydantic
+python-dotenv
+beautifulsoup4
+requests
+streamlit
+wikipedia
+langchain_core
