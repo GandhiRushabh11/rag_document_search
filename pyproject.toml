@@ -15,11 +15,14 @@ dependencies = [
     "langchain-community>=0.4.2",
     "langchain-core>=1.7.6",
     "langchain-google-genai>=4.4.3",
+    "langchain-huggingface>=1.2.3",
     "langgraph>=1.2.20",
     "pydantic>=2.14.3",
     "python-dotenv>=1.2.4",
     "requests>=2.34.2",
+    "sentence-transformers>=6.2.0",
     "streamlit>=1.67.0",
+    "uuid>=1.30",
     "wikipedia>=1.4.0",
 ]
 
