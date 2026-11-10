@@ -112,9 +112,7 @@ def main():
                             label="Documents retrieved; generating answer..."
                         )
                     elif completed_node == "responder":
-                        search_status.update(
-                            label="Answer generated", state="complete"
-                        )
+                        search_status.update(label="Answer generated", state="complete")
 
                 try:
                     result = st.session_state.rag_system.run(
